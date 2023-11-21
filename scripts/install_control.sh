@@ -18,7 +18,6 @@ fi
 
 KUBE_VERSION=1.28.2
 
-
 # Setup terminal.
 apt-get --allow-unauthenticated update
 apt-get --allow-unauthenticated install -y bash-completion binutils
